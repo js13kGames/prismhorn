@@ -1,4 +1,8 @@
 ---
+genres:
+  - action
+  - shooter
+  - arcade
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
